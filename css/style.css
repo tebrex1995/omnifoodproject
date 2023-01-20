@@ -46,7 +46,7 @@
 .main-nav-link.nav-cta:link,
 .main-nav-link.nav-cta:visited {
   padding: 1.2rem 3.2rem;
-  border-radius: 50px;
+  border-radius: 9px;
   color: #fff;
   background-color: #e67e22;
 }
